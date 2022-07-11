@@ -4,6 +4,9 @@ on:
     branches:
       - master 
       - main
+defaults:
+  run:
+    working-directory: ./docs
 jobs:
   deploy:
     runs-on: ubuntu-latest
