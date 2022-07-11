@@ -1,3 +1,10 @@
-site_name: My Docs
+site_name: Linear Algebra Calculator
 theme:
   name: material
+copyright: Copyright &copy; 2022 - NOW Xuehan Zhang
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fjtcin
+    - icon: fontawesome/solid/house
+      link: https://fjtcin.github.io/
